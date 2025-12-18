@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Documentazione_alunni>
+<Scheda_alunno>
+<nome_alunno>Amin Kriouech<nome_alunno/>
+<voto_teorico>8.15<voto_teorico/>
+<voto_pratico>6.85<voto_pratico/>
+<media>7.50<media/>
+<media_è_sufficiente>True<media_è_sufficiente/>
+<commento>Buona Prova teorica con qualche errore/lacuna, Prova pratica buona qualche errore din troppo nel es2 pratico<commento/>
+<Scheda_alunno/>
+<Scheda_alunno>
+<nome_alunno>Marco Clementi<nome_alunno>
+<voto_teorico>7.50<voto_teorico/>
+<voto_pratico>6.15<voto_pratico/>
+<media>6.82<media/>
+<media_è_sufficiente>True<media_è_sufficiente/>
+<commento>Prova teorica buona i concetti sono scritti a grandi linee, Prova pratica sufficiente ma errata in alcuni punti.<commento/>
+<Scheda_alunno/>
+<Documentazione_alunni/>
