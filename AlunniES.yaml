@@ -1,0 +1,14 @@
+alunno:
+    nome: Amin Kriouech 
+    voto_teorico: !!float 8.15 
+    voto_pratico: !!float 6.85 
+    media: !!float 7.50 
+    media_è_sufficiente: !!bool True
+    commento: Buona Prova teorica con qualche errore/lacuna, Prova pratica buona qualche errore din troppo nel es2 pratico 
+alunno2:
+    nome: Marco clementi
+    voto_teorico: !!float 7.50
+    voto_pratico: !!float 6.15
+    media: !!float 6.82
+    media_è_sufficiente: !!bool True
+    commento: Prova teorica buona i concetti sono scritti a grandi linee, Prova pratica sufficiente ma errata in alcuni punti.
